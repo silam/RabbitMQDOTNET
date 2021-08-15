@@ -17,7 +17,7 @@ namespace RabbitmqProducer
             // create a channel
             using var channel = connection.CreateModel();
 
-            TopicExchangePublisher.PUblish(channel);
+            HeaderExchangeProducer.Publish(channel);
 
             
 

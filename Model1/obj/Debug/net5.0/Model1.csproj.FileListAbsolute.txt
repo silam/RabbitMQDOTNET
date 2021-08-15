@@ -1,0 +1,11 @@
+C:\DEVELOPMENT\RabbitMQ\Model1\bin\Debug\net5.0\Model1.deps.json
+C:\DEVELOPMENT\RabbitMQ\Model1\bin\Debug\net5.0\Model1.dll
+C:\DEVELOPMENT\RabbitMQ\Model1\bin\Debug\net5.0\ref\Model1.dll
+C:\DEVELOPMENT\RabbitMQ\Model1\bin\Debug\net5.0\Model1.pdb
+C:\DEVELOPMENT\RabbitMQ\Model1\obj\Debug\net5.0\Model1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVELOPMENT\RabbitMQ\Model1\obj\Debug\net5.0\Model1.AssemblyInfoInputs.cache
+C:\DEVELOPMENT\RabbitMQ\Model1\obj\Debug\net5.0\Model1.AssemblyInfo.cs
+C:\DEVELOPMENT\RabbitMQ\Model1\obj\Debug\net5.0\Model1.csproj.CoreCompileInputs.cache
+C:\DEVELOPMENT\RabbitMQ\Model1\obj\Debug\net5.0\Model1.dll
+C:\DEVELOPMENT\RabbitMQ\Model1\obj\Debug\net5.0\ref\Model1.dll
+C:\DEVELOPMENT\RabbitMQ\Model1\obj\Debug\net5.0\Model1.pdb

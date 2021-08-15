@@ -20,7 +20,7 @@ namespace RabbitMQConsumer
             // create a channel
             using var channel = connection.CreateModel();
 
-            DirectExchangeConsumer.Consume(channel);
+            TopicExchangeConsumer.Consume(channel);
         }
     }
 }
